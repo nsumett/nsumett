@@ -1,5 +1,10 @@
-- aloo, im nadya rahmawati
-- 📫 : nadyarahmawati123@gmail.com
+- 🙋, im nadya rahmawati
+- 🏫 student from SMKN 4 Bandung
+- ☎️ : nadyarahmawati123@gmail.com
+
+
+
+
 
 <!---
 nsumett/nsumett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
