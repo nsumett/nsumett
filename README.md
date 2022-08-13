@@ -1,4 +1,4 @@
-- Hi, I’m nadya rahmawati
+- aloo, im nadya rahmawati
 - 📫 : nadyarahmawati123@gmail.com
 
 <!---
